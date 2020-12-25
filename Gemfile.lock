@@ -564,7 +564,7 @@ GEM
       thor (>= 0.20.3, < 2.0)
     rainbow (3.0.0)
     rake (13.0.1)
-    ransack (2.4.0)
+    ransack (2.4.1)
       activerecord (>= 5.2.4)
       activesupport (>= 5.2.4)
       i18n
@@ -756,7 +756,7 @@ GEM
       multipart-post (~> 2.0)
       naught (~> 1.0)
       simple_oauth (~> 0.3.0)
-    tzinfo (1.2.8)
+    tzinfo (1.2.9)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
